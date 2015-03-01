@@ -1,0 +1,7 @@
+class HMT{
+ public:
+  byte hour;
+  byte minute;
+  byte tick;
+};
+
